@@ -1,0 +1,13 @@
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\bin\Debug\2Donusum.exe.config
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\bin\Debug\2Donusum.exe
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\bin\Debug\2Donusum.pdb
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\obj\Debug\2Donusum.csprojResolveAssemblyReference.cache
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\obj\Debug\2Donusum.exe
+C:\Users\SisLab\Desktop\05122017\G4\2Donusum\2Donusum\obj\Debug\2Donusum.pdb
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\bin\Debug\2Donusum.exe.config
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\bin\Debug\2Donusum.exe
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\bin\Debug\2Donusum.pdb
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\obj\Debug\2Donusum.csprojAssemblyReference.cache
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\obj\Debug\2Donusum.csproj.CoreCompileInputs.cache
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\obj\Debug\2Donusum.exe
+C:\Users\90530\Desktop\Ders\Object Oriented Programming\6DonusumOperatorOverload\2Donusum\obj\Debug\2Donusum.pdb
